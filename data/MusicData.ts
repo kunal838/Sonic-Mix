@@ -59,5 +59,11 @@ export const MUSIC_DATA:musicDataType[] = [
       artist: 'JUBIN NAUTIYAL',
       song_path: '/music/TuBankeHawa.mp3',
       image_path: '/img/bankehawa.jpg'
+    },
+    {
+      title: 'kar har maidan fateh',
+      artist: 'SUKHWINDER SINGH',
+      song_path: '/music/kar.mp3',
+      image_path: '/img/kar har maidan fateh.jpg'
     }
   ];
